@@ -1,0 +1,10 @@
+biopython>=1.81
+scikit-bio>=0.5.8
+ete3>=3.1.2
+matplotlib>=3.7.1
+numpy>=1.24.3
+pandas>=1.5.3
+jupyterlab>=4.0.0
+dendropy>=4.6.1
+scipy>=1.10.1
+tqdist>=1.0.3
