@@ -1,2 +1,3 @@
-# eco-phylo-insights
-Phylogenetic Insights from Turtles, Lizards and Birds Sequences. Jupyter Notebook with tree construction
+#  Eco-Phylo Insights: Phylogenetic Analysis of Turtles, Lizards & Birds
+
+Welcome to **Eco-Phylo Insights**, a computational biology project focused on uncovering evolutionary relationships between turtles, lizards, and birds through sequence alignment and phylogenetic tree construction.
