@@ -1,0 +1,202 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+TGreen          ------------------------------------------------------------
+TDummy          ------------------------------------------------------------
+Tsmall          ------------------------------------------------------------
+TGreek          ----------------------------------------------------------TT
+CNile           ATGACCCACCAACTACGAAAATCCCACCCACTTTTAAAACTAGTAAACCACTCTTTAATT
+CMisissipi      ------------------------------------------------------------
+CTiny           ------------------------------------------------------------
+CAfrican        ------------------------------------------------------------
+                                                                            
+
+TGreen          ------------------------------------------------------------
+TDummy          ------------------------------------------------------------
+Tsmall          ------------------------------------------------------------
+TGreek          GATCTACCAAGCCCCCCCAACATCTCCGCTTGATGAAACTTCGGATCACTACTAGGCATC
+CNile           GACCTACCCACGCCATCCAACATCTCCTACTGATGAAACTTTGGATCACTTCTTGGATTC
+CMisissipi      ------------------------------------------------------------
+CTiny           ------------------------------------------------------------
+CAfrican        ------------------------------------------------------------
+                                                                            
+
+TGreen          ---------------------ACCGGAATCTTTCTAGCAATACACTACTCACCAGACATC
+TDummy          ---------------------ACCGGAATCTTCCTAGCAATACATTACTCACCAGACATC
+Tsmall          ------------------------------------------------------------
+TGreek          TGCCTAATCCTACAAATTATTACCGGAATCTTCCTAGCAATACACTACTCACCAAACATC
+CNile           ACCCTATTAGTCCAGCTGGCGTCGGGCATCCTACTAATAATGCATTTCCTAGCAGATGAC
+CMisissipi      ----------------------------TCTTCTTAATAATGCACTTTTCATCAAGCGAT
+CTiny           ------------------------------------------------------------
+CAfrican        ------------CAAATCCTATCAGGCATTCTACTAATAATACATTTCCTAGCACATGAC
+                                                                            
+
+TGreen          TCCATAGCTTTTTCATCAATTGCTCACATCACCCGAGATGTACAATACGGCTGACTTATC
+TDummy          TCCATAGCCTTTTCATCAATTACCCACATCACCCGAGATGTACAATACGGATGACTCATC
+Tsmall          ------------TCATCAGTAGCCCACATCACCCGAGACGTACAATACGGATGACTCATC
+TGreek          TCACTAGCATTTTCATCAGTAGCCCATATCACCCGAGATGTACAATATGGATGACTTATC
+CNile           TCTCTAGCTTTTATATCTGTCGCTTATACTTCACGAGAAGTTTGATATGGCTGACTAATT
+CMisissipi      ACTCTAGCATTTTCATCTGTATCCTACACCTCCCGCGAAGTCTGATTTGGATGACTCATC
+CTiny           ------------------------------------------------------------
+CAfrican        ACCATAGCCTTCGCATCCGTCGCTTACACATCACGAGAAGTCTGATACGGCTGACTTATC
+                                                                            
+
+TGreen          CGTAACATACATGCTAACGGCGCCTCCCTATTCTTCATATGTATCTACCTCCATATTGGA
+TDummy          CGCAACATGCACGCCAACGGAGCCTCCCTATTTTTCATCTGCATCTACCTCCACATCGGA
+Tsmall          CGTAATATACATGCTAACGGCGCTTCCCTCTTCTTCATATGCATCTACCTTCACATCGGA
+TGreek          CGAAACATACACGCCAATGGAGCCTCCATCTTCTTTATATGCATCTACCTTCATATCGGC
+CNile           CGAAGCCTCCATGCAAACGGAGCCTCCCTATTCTTCCTGTGTATTTTCCTACACATTGGA
+CMisissipi      CGCAACCTCCACACAAATGGGGCCTCCCTGTTCTTTATATTTATCTTTCTTCACATCGGA
+CTiny           ------------------------------------------------------------
+CAfrican        CGAAGCCTTCACGCAAACGGAGCTTCCCTATTCTTCTTTTGCATCTTCTTACACATTGGA
+                                                                            
+
+TGreen          CGAGGAATTTACTACGGTTCCTACCTATATAAAGAAACCTGAAACACTGGAATCATCCTT
+TDummy          CGAGGAATCTACTACGGTTCCTACCTATACAAAGAAACCTGAAATACCGGAATCATCCTC
+Tsmall          CGAGGACTCTATTACGGCTCATACCTATACAAAGAAACTTGAAACACGGGAATTATCCTA
+TGreek          CGAGGACTTTACTATGGCTCATACCTGTACAAAGAAACATGAAACACAGGAGTTGTCCTA
+CNile           CGCGGAGTGTACTACGGATCATACCTCAACGAAAATACATGAAACATCGGAGTGCTACTA
+CMisissipi      CGAGGCCTATACTACACATCATATCTTCACGAAAGCACATGAAATATTGGAGTAATCATA
+CTiny           ------------------------------------------------------------
+CAfrican        CGTGGCCTCTACTACGGCTCTTATCTGCACGAAAACACATGGAACATCGGAGTCATTTTA
+                                                                            
+
+TGreen          CTACTATTAGTCATACGTACCGCATTCGTAGGCTACGTCCTACCATGAGGACAAATATCA
+TDummy          TTACTACTAGTAATAGCCACCGCATTCGTAGGCTACGTCCTACCATGAGGGCAAATATCA
+Tsmall          CTACTCCTAACAATAGCCACTGCATTCATGGGTTATGTCCTACCATGGGGCCAAATATCC
+TGreek          CTACTCCTAATTATAGCCACCGCATTCATAGGTTACGTCCTACCCTGAGGGCAAATATCA
+CNile           CTGCTACTACTGATAGCAACTGCCTTCATAGGCTACGTCCTACCATGAGGACAAATATCA
+CMisissipi      CTTCTACTCCTAATAGCCACAGCATTTATAGGCTATGTTCTCCC----------------
+CTiny           ------------------------------------------------------------
+CAfrican        CTCCTCCTACTA------------------------------------------------
+                                                                            
+
+TGreen          TTTTGAGGGGCCACCGTCATCACAAACCTACTCTCAGCCATCCCATACATCGGCAACACA
+TDummy          TTCTGAGGAGCTACCGTCATCACCAACCTACTATCAGCCATCCCATATATTGGTAACACA
+Tsmall          TTTTGAGGTGCCACCGTTATTACTAACCTCCTCTCAGCCATCCCATTCATTGGTAACACA
+TGreek          TTCTGAGGAGCTACAGTCATCACTAATTTACTCTCAGCCACCCCCTACATCGGCAACACC
+CNile           TT----------------------------------------------------------
+CMisissipi      ------------------------------------------------------------
+CTiny           ------------------------------------------------------------
+CAfrican        ------------------------------------------------------------
+                                                                            
+
+TGreen          CTAGTACAATGAATCTGAGGAGGGTTTTCAGTAGACAATGCAACCCTAACCCGATTCTTC
+TDummy          TTAGTACAATGAATCTGAGGAGGATTCTCAGTAGACAACGCAACCCTAACTCGATTCTTC
+Tsmall          TTAGTACAATGAATCTGAGGTGGATTCTCAGTAGACAACGCAACCTTAACCCGATTTTTT
+TGreek          TTAGTACAATGAATCTGAGGTGGCTTCTCAGTAGACAACGCTACCCTAACCCGATTCTTC
+CNile           ------------------------------------------------------------
+CMisissipi      ------------------------------------------------------------
+CTiny           CTCGTAATCTGAATCTGAGGAGGCCCTTCAGTTAACAGCGCCACCCTAACACGCTTTACT
+CAfrican        ------------------------------------------------------------
+                                                                            
+
+TGreen          ACCTTCCACTTCCTATTACCATTTGCCATTACCGGCCTTACAGGAGTACATCTATTATTC
+TDummy          ACCTTCCACTTCCTACTACCATTCGCTGTCACCGGCCTTACAATAGTACATTTACTATTC
+Tsmall          ACCCTTCACTTCCTTCTACCATTTACAATCATAGGTCTAACAATAGTACACCTACTTTTT
+TGreek          ACCCTCCACTTCCTACTACCCTTTGCTACTATCGGGTTGGTTATAGTTCACTTACTCTTC
+CNile           ------------------------------------------------------------
+CMisissipi      ------------------------------------------------------------
+CTiny           ACCTTACACTTTCTACTCCCATTCATTCTACTAGCAGCCATCATCACCCACCTCATATTT
+CAfrican        ------------------------------------------------------------
+                                                                            
+
+TGreen          CTGCACGAAACAGGATCAAACAACCCAACAGGATTAAATTCAAA----------------
+TDummy          CTACACGAAACAGGCTCAAACAACCCAACAGGACTAAACTCAAA----------------
+Tsmall          CTACATGAAACTGGATCAAACAACCCAACAGGATTAAACTCAAACACTGACAAAATCCCA
+TGreek          CTACATGAAACCGGATCAAACAACCCAACAGGATTAAACTCAGACACTGACAAAATTCCA
+CNile           ------------------------------------------------------------
+CMisissipi      ------------------------------------------------------------
+CTiny           CTACATGAACAAGGCTCATTTAACCCCTTAGGACTGCCTCCCAACACCGACAAAGTCCCA
+CAfrican        ------------------------------------------------------------
+                                                                            
+
+TGreen          ------------------------------------------------------------
+TDummy          ------------------------------------------------------------
+Tsmall          TTCCACCCTTATTTCTCATATAAAGACCTTTTAGGCGTCATTCTAATACTAACCCTCCTA
+TGreek          TTTCACCCATACTTCTCCTACAAAGACCTACTGGGACTAATCTTAATACTAACCACCCTA
+CNile           ------------------------------------------------------------
+CMisissipi      ------------------------------------------------------------
+CTiny           TTTCACCCATACTTCTCCCTAAAAGACGCTATAGGGATAATACTCGCCGTCACCTTACTT
+CAfrican        ------------------------------------------------------------
+                                                                            
+
+TGreen          ------------------------------------------------------------
+TDummy          ------------------------------------------------------------
+Tsmall          CTAACCCTAACACTATTCTCTCCAAACCTTTTAGGAGACCCAGATAATTTCACACCAGCC
+TGreek          CTA---------------------------------------------------------
+CNile           ------------------------------------------------------------
+CMisissipi      ------------------------------------------------------------
+CTiny           TCAACTTTAGCCCTATATCTCCCAAACCTCTTAGGAGACCCAGAAAACTTCACACCAGCT
+CAfrican        ------------------------------------------------------------
+                                                                            
+
+TGreen          ------------------------------------------------------------
+TDummy          ------------------------------------------------------------
+Tsmall          AACCCCCTATCTACCCCACCACATATTAAACCAGAATGATACTTTCTTTTCGCTTACGCA
+TGreek          ------------------------------------------------------------
+CNile           ------------------------------------------------------------
+CMisissipi      ------------------------------------------------------------
+CTiny           GACCCCATAAAAACCCCTAACCACATCAAACCCGAATGATACTTCCTATTCGCCTACACA
+CAfrican        ------------------------------------------------------------
+                                                                            
+
+TGreen          ------------------------------------------------------------
+TDummy          ------------------------------------------------------------
+Tsmall          ATTCTACGATCTATCCCAAACAAACTAGGTGGCGTACTTGCCCTACTACTCTCCATCCTC
+TGreek          ------------------------------------------------------------
+CNile           ------------------------------------------------------------
+CMisissipi      ------------------------------------------------------------
+CTiny           ATCCTACGATCCATTCCCAATAAGCTAATAGGAGTATTAGCTATATTTTCATCAATCCTA
+CAfrican        ------------------------------------------------------------
+                                                                            
+
+TGreen          ------------------------------------------------------------
+TDummy          ------------------------------------------------------------
+Tsmall          GTATTATTCTTAATACCCGCCCTACACACATCAAAACAACGAACAACCCAATTCCGACCA
+TGreek          ------------------------------------------------------------
+CNile           ------------------------------------------------------------
+CMisissipi      ------------------------------------------------------------
+CTiny           ATTCTCTTCCTAATGCCCATGCTTCACACATCAAAACGACAATCAATAGCCATGCGCCCC
+CAfrican        ------------------------------------------------------------
+                                                                            
+
+TGreen          ------------------------------------------------------------
+TDummy          ------------------------------------------------------------
+Tsmall          CTTACACAAACCCTATTCTGATCTTTTATCGCC---------------------------
+TGreek          ------------------------------------------------------------
+CNile           ------------------------------------------------------------
+CMisissipi      ------------------------------------------------------------
+CTiny           CTATCCCAACTTCTATTTTGAACACTCGTCGCCGACTTCTTTGTATTAACCTGGATCGGA
+CAfrican        ------------------------------------------------------------
+                                                                            
+
+TGreen          ------------------------------------------------------------
+TDummy          ------------------------------------------------------------
+Tsmall          ------------------------------------------------------------
+TGreek          ------------------------------------------------------------
+CNile           ------------------------------------------------------------
+CMisissipi      ------------------------------------------------------------
+CTiny           GGACAGCCCGTACAAGACCCCTACACACTAATCGGCCAAATAGCCTCCATAACCTACTTC
+CAfrican        ------------------------------------------------------------
+                                                                            
+
+TGreen          ------------------------------------------------------------
+TDummy          ------------------------------------------------------------
+Tsmall          ------------------------------------------------------------
+TGreek          ------------------------------------------------------------
+CNile           ------------------------------------------------------------
+CMisissipi      ------------------------------------------------------------
+CTiny           ACAATCATCCTTATTCTCATACCACTAACAGGCCAAGTAGAAAACTGAATTATTAAACCT
+CAfrican        ------------------------------------------------------------
+                                                                            
+
+TGreen          ----------------
+TDummy          ----------------
+Tsmall          ----------------
+TGreek          ----------------
+CNile           ----------------
+CMisissipi      ----------------
+CTiny           CTACGATACCGATACT
+CAfrican        ----------------
+                                
