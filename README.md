@@ -16,6 +16,18 @@ This repository is part of my personal portfolio and showcases my ability to wor
 
 ---
 
+## Example 
+
+![Tree Clustal Kimura UPGMA](img/tree_all_clustal_kimura_upgma.png)
+
+*Tree generated with Clustal Alignment and Kimura distances using the UPGMA method.*
+
+
+![Tree Clustal Jukes-Cantor NJ](img/tree_all_clustal_jc_nj.png)
+
+*Tree generated with Clustal Alignment and Jukes-Cantor distances using the Neighbor-Joining method.*
+---
+
 
 ## 🧪 Methodology
 
