@@ -19,16 +19,14 @@ This repository is part of my personal portfolio and showcases my ability to wor
 ## Example 
 
 ![Tree Clustal Kimura UPGMA](img/tree_all_clustal_kimura_upgma.png)
-
 *Tree generated with Clustal Alignment and Kimura distances using the UPGMA method.*
 
 
 ![Tree Clustal Jukes-Cantor NJ](img/tree_all_clustal_jc_nj.png)
-
 *Tree generated with Clustal Alignment and Jukes-Cantor distances using the Neighbor-Joining method.*
+
+
 ---
-
-
 ## 🧪 Methodology
 
 1. **Data Import & Preprocessing:** FASTA sequences of turtles, lizards, and birds.
@@ -65,7 +63,6 @@ This repository is part of my personal portfolio and showcases my ability to wor
 
 **Ana Laura**  
 [LinkedIn](https://www.linkedin.com/in/ana-laura-chenoweth-galaz-7a36a7203/)]  
-[Email](chenowethgalazanalaura@gmail.com)]
 
 ---
 
