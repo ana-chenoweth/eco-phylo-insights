@@ -12,7 +12,7 @@ This repository is part of my personal portfolio and showcases my ability to wor
 - 🧬 Implements **Jukes-Cantor** and **Kimura 2-Parameter** models to calculate evolutionary distances
 - 🌱 Constructs phylogenetic trees using UPGMA and Neighbor-Joining
 - 📊 Includes clear visualizations of distance matrices and resulting trees
-- Using comparing methods like Robinson-Foulds distance, Least-Square distance, Quarter distance.
+- Using comparing methods like **Robinson-Foulds distance**, **Least-squares distance**, **Quartet distance**.
 - ⚙️ Built entirely in **Python**, in an interactive Jupyter Notebook
 
 ---
